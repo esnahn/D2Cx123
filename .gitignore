@@ -1,0 +1,7 @@
+# fonts
+*.ttf
+*.otf
+*.zip
+
+# windows
+*.ini
